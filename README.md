@@ -11,3 +11,4 @@ Se emplean dos métodos de inferencia causal:
 
 Los principales hallazgos muestran una reducción significativa y creciente en el gasto en obra pública tras la reelección, mientras que los ingresos por predial y derechos de uso de bienes públicos presentan efectos más heterogéneos.
 
+Descargar el documento final: [aquí](https://github.com/AlvaroPLZ/Reeleccion_Municipal_y_Finanzas_Publicas/blob/f8ee468252ce02ff0324efb33d5683b9b15d421c/Supplemental%20Material/Proyecto_Final_PC-III.pdf)
