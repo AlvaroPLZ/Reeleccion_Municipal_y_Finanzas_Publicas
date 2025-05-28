@@ -1,4 +1,4 @@
-# Proyecto Final: Política Comprada III
+# Proyecto Final: Política Comparada III
 ## Reelección Municipal y Finanzas Públicas 
 
 Este repositorio contiene el código y los datos necesarios para reproducir el análisis de los efectos de la reforma de reelección municipal (2018 y 2021) sobre las finanzas públicas de los municipios mexicanos durante el periodo 2015–2023. 
